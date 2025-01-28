@@ -1,3 +1,5 @@
 export enum Route {
-	General = '/'
+	General = '/',
+
+	Registration = '/registration'
 }

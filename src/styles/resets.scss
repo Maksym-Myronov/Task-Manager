@@ -1,3 +1,5 @@
+@import './fonts/index.scss';
+
 *,
 *::before,
 *::after {
@@ -31,5 +33,6 @@ html,
 body {
 	height: 100vh;
 	min-width: 320px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Inter', serif;
+	font-style: normal;
 }
